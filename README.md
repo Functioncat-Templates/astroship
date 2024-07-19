@@ -1,127 +1,122 @@
-# Astroship - Astro SAAS Starter Website Template
 
-Astroship is a free starter astro website template for saas, startups, marketing websites, landing pages & blogs. Built with Astro & TailwindCSS.
+# 模板介绍
 
-This Free Template is sponsored by [Web3Templates](https://web3templates.com)
+| 项目信息       | 详情                                                                                  |
+| -------------- | ------------------------------------------------------------------------------------- |
+| 原始项目地址   | [ surjithctly/astroship](https://github.com/surjithctly/astroship)                                 |
+| 原始项目Stars   | [![GitHub stars](https://img.shields.io/github/stars/surjithctly/astroship?style=social)](https://github.com/surjithctly/astroship/stargazers) |
 
-## Live Demo
+以下是原始项目的 README 内容：
+---
+
+# Astroship - Astro SAAS 入门网站模板
+
+Astroship 是一款免费的入门级 astro 网站模板，适用于 saas、初创公司、营销网站、登录页面和博客。使用 Astro 和 TailwindCSS 构建。
+
+此免费模板由 [Web3Templates](https://web3templates.com) 赞助
+
+## 现场演示
 
 **[https://astroship.web3templates.com/](https://astroship.web3templates.com/)**
 
-**[Download Astroship Template](https://web3templates.com/templates/astroship-starter-website-template-for-astro)**
+**[下载 Astroship 模板](https://web3templates.com/templates/astroship-starter-website-template-for-astro)**
 
-## Upgrade to Astroship Pro Version
+## 升级到 Astroship Pro 版本
 
 **[https://astroship-pro.web3templates.com/](https://astroship-pro.web3templates.com/)**
 
-**[Purchase Astroship Pro — $49](https://web3templates.com/templates/astroship-pro-astro-saas-website-template)**
-
+**[购买 Astroship Pro — $49](https://web3templates.com/templates/astroship-pro-astro-saas-website-template)**
 
 <!-- prettier-ignore -->
-| Feature | Free Version | Pro Version |
+| 功能 | 免费版本 | 专业版本 |
 | --- | ------ | --- |
-| Astro v3 | ✅  | ✅ |
-| Content Collections | ✅  | ✅ |
-| Tailwind CSS   | ✅  | ✅ |
-| Mobile Responsive | ✅  | ✅ |
-| Working Contact Page | ✅  | ✅ |
-| Pro Layouts & Features | ❌  | ✅ |
-| Blog with Pagination | ❌ | ✅ |
-| View Transitions | ❌ | ✅ |
-| Advanced Homepage Design | ❌  | ✅ |
-| Features Page | ❌  | ✅ |
-| Integrations Page | ❌  | ✅ |
-| Elegant 404 Page | ❌  | ✅ |
-| 6 Months Support| ❌  | ✅  |
-| Free Updates    | ✅  | ✅  |
-| License         | GPL-2.0 | Commercial |
+| Astro v3 | ✅ | ✅ |
+|内容集合 | ✅ | ✅ |
+| Tailwind CSS | ✅ | ✅ |
+| 移动响应 | ✅ | ✅ |
+| 工作联系页面 | ✅ | ✅ |
+| 专业布局和功能 | ❌ | ✅ |
+| 带分页的博客 | ❌ | ✅ |
+| 查看转换 | ❌ | ✅ |
+| 高级主页设计 | ❌ | ✅ |
+| 功能页面 | ❌ | ✅ |
+| 集成页面 | ❌ | ✅ |
+| 优雅的 404 页面 | ❌ | ✅ |
+| 6 个月支持| ❌ | ✅ |
+| 免费更新 | ✅ | ✅ |
+| 许可证 | GPL-2.0 | 商业 |
 | &nbsp; | &nbsp;| &nbsp;|
-| Pricing| Free|**$49**|
-| &nbsp; | [Deploy for free](https://vercel.com/new/surjithctly/clone?demo-description=Starter%20template%20for%20startups%2C%20marketing%20websites%20%26%20blogs%20built%20with%20Astro%20and%20TailwindCSS.&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F5dB0dDqBr1BfvIoNOmffVB%2F784984a8d3fe5e3db123e7c655166046%2Fastroship_-_Tony_Sullivan.jpg&demo-title=Astroship&demo-url=https%3A%2F%2Fastroship.web3templates.com%2F&from=templates&project-name=Astroship&repository-name=astroship&repository-url=https%3A%2F%2Fgithub.com%2Fsurjithctly%2Fastroship&skippable-integrations=1) | [Purchase Pro](https://web3templates.com/templates/astroship-pro-astro-saas-website-template) |
+| 定价| 免费|**49 美元**|
+| &nbsp; | [部署免费]（https://vercel.com/new/surjithctly/clone?demo-description=Starter%20template%20for%20startups%2C%20marketing%20websites%20%26%20blogs%20built%20with%20Astro%20and%20TailwindCSS。&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F5dB0dDqBr1BfvIoNOmffVB%2F784984a8d3fe5e3 db123e7c655166046%2Fastroship_-_Tony_Sullivan.jpg&demo-title=Astroship&demo-url=https%3A%2F%2Fastroship.web3templates.com%2F&from=templates&project-name=Astroship&repository-name=astroship&repository-url=https%3A%2F%2Fgithub.com%2Fsurjithctly%2Fastroship&skippable-integrations=1) | [购买 Pro](https://web3templates.com/templates/astroship-pro-astro-saas-website-template) |
 
 <a href="https://web3templates.com/templates/astroship-pro-astro-saas-website-template">
-<img width="160" alt="Upgrade to Pro" src="https://user-images.githubusercontent.com/1884712/199181300-37c2128e-d033-4145-a906-16fa5263a53b.png">
+<img width="160" alt="升级到专业版" src="https://user-images.githubusercontent.com/1884712/199181300-37c2128e-d033-4145-a906-16fa5263a53b.png">
 </a>
 
-## Deploy this template
-
-You can instantly clone this to your GitHub and deploy the site by clicking the below buttons to deploy to your chosen providers!
-
-Click here to deploy on Vercel:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsurjithctly%2Fastroship&project-name=astroship&repository-name=astroship&demo-title=Astroship%20-%20Astro%20Starter%20Template&demo-description=Astroship%20is%20a%20starter%20template%20for%20startups%2C%20marketing%20websites%20%26%20landing%20pages.%20Built%20with%20Astro%2C%20TailwindCSS&demo-url=https%3A%2F%2Fastroship.web3templates.com%2F&demo-image=https%3A%2F%2Fuser-images.githubusercontent.com%2F1884712%2F200831799-10ef2456-a02e-4068-b580-4b5326f0b33b.png)
-
-Click here to deploy on Netlify:
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/surjithctly/astroship)
-
-## Preview
+## 预览
 
 ![image](https://user-images.githubusercontent.com/1884712/200831799-10ef2456-a02e-4068-b580-4b5326f0b33b.png)
 
+## 专业版预览
 
-## Pro Version Preview
+![预览](https://github.com/surjithctly/astroship/assets/1884712/25665c02-d2a7-43dc-89b2-34a8ae37ade9)
 
-![preview](https://github.com/surjithctly/astroship/assets/1884712/25665c02-d2a7-43dc-89b2-34a8ae37ade9)
-
-
-### Pagespeed Score
+### Pagespeed 分数
 
 [![pagespeed](https://user-images.githubusercontent.com/1884712/210250214-7aa98167-7993-4b90-8138-326b8fa0c223.png)](https://pagespeed.web.dev/report?url=https%3A%2F%2Fastroship.web3templates.com%2F)
 
+## 安装
 
-## Installation
+如果您在 github 上阅读此内容，您可以点击上方的“使用此模板”按钮从 astroship 为您的帐户创建一个新的存储库。然后，您可以执行 `git clone` 将其克隆到本地系统。
 
-If you are reading this on github, you can click on the "Use this template" button above to create a new repository from astroship to your account. Then you can do a `git clone` to clone it to your local system.
+或者，您可以将项目直接从此存储库克隆到本地系统。
 
-Alternatively, you can clone the project directly from this repo to your local system.
-
-### 1. Clone the repo
+### 1. 克隆存储库
 
 ```bash
 git clone https://github.com/surjithctly/astroship.git myProjectName
-# or
-git clone https://github.com/surjithctly/astroship.git .
+# 或
+git clone https://github.com/surjithctly/astroship.git 。
 ```
 
-The `.` will clone it to the current directory so make sure you are inside your project folder first.
+`.` 会将其克隆到当前目录，因此请确保您首先位于项目文件夹中。
 
-### 2. Install Dependencies
+### 2. 安装依赖项
 
 ```bash
 npm install
-# or
+# 或
 yarn install
-# or (recommended)
+# 或 (推荐)
 pnpm install
 ```
 
-### 3. Start development Server
+### 3. 启动开发服务器
 
 ```bash
 npm run dev
-# or
+# 或
 yarn dev
-# or (recommended)
+# 或 (推荐)
 pnpm dev
 ```
 
-### Preview & Build
+### 预览和构建
 
 ```bash
 npm run preview
 npm run build
-# or
+# 或
 yarn preview
 yarn build
-# or (recommended)
+# 或 (推荐)
 pnpm preview
 pnpm build
 ```
 
-We recommend using [pnpm](https://pnpm.io/) to save disk space on your computer.
+我们建议使用 [pnpm](https://pnpm.io/) 来节省计算机上的磁盘空间。
 
-### Other Commands
+### 其他命令
 
 ```bash
 pnpm astro ...
@@ -129,38 +124,39 @@ pnpm astro add
 pnpm astro --help
 ```
 
-## Project Structure
+## 项目结构
 
-Inside of your Astro project, you'll see the following folders and files:
+在您的 Astro 项目中，您将看到以下文件夹和文件：
 
 ```
 /
-├── public/
-│   └── ...
-├── src/
-│   ├── components/
-│   │   └── ...
-│   ├── layouts/
-│   │   └── ...
-│   └── pages/
-│       └── ...
+
+═── public/
+│ └── ...
+═── src/
+│ ═── components/
+│ │ └── ...
+│ ═── layouts/
+│ │ └── ...
+│ └── pages/
+│ └── ...
 └── package.json
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+Astro 在 `src/pages/` 目录中查找 `.astro` 或 `.md` 文件。每个页面都根据其文件名显示为路由。
 
-Any static assets, like images, can be placed in the `public/` directory.
+任何静态资产（如图像）都可以放在 `public/` 目录中。
 
 ## TailwindCSS
 
-TailwindCSS is already configured in this repo, so you can start using it without any installation.
+TailwindCSS 已在此 repo 中配置，因此您无需任何安装即可开始使用它。
 
-## Credits
+## 致谢
 
-[Hero Illustration](https://www.figma.com/community/file/1108400791662599811) by [Streamline](https://www.streamlinehq.com/)
+[英雄插图](https://www.figma.com/community/file/1108400791662599811) 作者：[Streamline](https://www.streamlinehq.com/)
 
-## 👀 Want to learn more?
+## 👀 想了解更多？
 
-Feel free to check out [Astro Docs](https://docs.astro.build) or jump into our [Discord Chat](https://web3templates.com/discord).
+欢迎查看 [Astro Docs](https://docs.astro.build) 或进入我们的 [Discord 聊天](https://web3templates.com/discord)。
 
-[![Built with Astro](https://astro.badg.es/v1/built-with-astro.svg)](https://astro.build)
+[![使用 Astro 构建](https://astro.badg.es/v1/built-with-astro.svg)](https://astro.build)
