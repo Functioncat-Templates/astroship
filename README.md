@@ -6,7 +6,8 @@
 | 原始项目地址   | [ surjithctly/astroship](https://github.com/surjithctly/astroship)                                 |
 | 原始项目Stars   | [![GitHub stars](https://img.shields.io/github/stars/surjithctly/astroship?style=social)](https://github.com/surjithctly/astroship/stargazers) |
 
-以下是原始项目的 README 内容：
+> 以下是原始项目的 README 内容：
+
 ---
 
 # Astroship - Astro SAAS 入门网站模板
